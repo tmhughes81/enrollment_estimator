@@ -17,8 +17,9 @@ In addition, users will need to acquire the Integrated Postsecondary Education
 Data System (IPEDS) Delta Cost Project Database from 2000-2012.  It can be
 downloaded from here: http://nces.ed.gov/ipeds/deltacostproject/download/IPEDS_Analytics_DCP_87_12_CSV.zip
 
-After downloading, unzip the archive, and place the file 'delta_public_00_12.csv'
-in the same folder as 'enrollment_estimator.ipynb'.
+After downloading, unzip the archive, and place the files
+'delta_public_87_99.csv' and 'delta_public_00_12.csv' in the same folder as 
+'enrollment_estimator.ipynb'.
 
 ## More Information
 
