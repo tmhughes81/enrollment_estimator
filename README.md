@@ -1,15 +1,13 @@
 # University Enrollment Estimator
 Supervised learning model to estimate university enrollments based on 
 institutional attributes.  Developed as a capstone project for Udacity's
-Machine Learning Engineer Nanodegree Program in October 2016.
+Machine Learning Engineer Nanodegree Program in November 2016.
 
 ## Libraries
 This project requires *Python 2.7* and the following Python libraries installed:
 
 * NumPy
-
 * Pandas
-
 * scikit-learn
 
 
